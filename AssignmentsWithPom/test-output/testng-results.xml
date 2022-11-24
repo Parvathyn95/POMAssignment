@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="23891" started-at="2022-11-24T12:59:13Z" finished-at="2022-11-24T12:59:36Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="23891" started-at="2022-11-24T12:59:13Z" finished-at="2022-11-24T12:59:36Z">
+      <class name="com.obsqura.assignmentswithpom.CheckBoxAndRadioButtonTest">
+        <test-method status="PASS" signature="initBrowser()[pri:0, instance:com.obsqura.assignmentswithpom.CheckBoxAndRadioButtonTest@f6c48ac]" name="initBrowser" is-config="true" duration-ms="9190" started-at="2022-11-24T16:59:13Z" finished-at="2022-11-24T16:59:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initBrowser -->
+        <test-method status="PASS" signature="checkAndVerifyOperaRadioBoxIsSelected()[pri:0, instance:com.obsqura.assignmentswithpom.CheckBoxAndRadioButtonTest@f6c48ac]" name="checkAndVerifyOperaRadioBoxIsSelected" duration-ms="88" started-at="2022-11-24T16:59:22Z" finished-at="2022-11-24T16:59:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkAndVerifyOperaRadioBoxIsSelected -->
+        <test-method status="PASS" signature="driverClose()[pri:0, instance:com.obsqura.assignmentswithpom.CheckBoxAndRadioButtonTest@f6c48ac]" name="driverClose" is-config="true" duration-ms="146" started-at="2022-11-24T16:59:22Z" finished-at="2022-11-24T16:59:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverClose -->
+        <test-method status="PASS" signature="initBrowser()[pri:0, instance:com.obsqura.assignmentswithpom.CheckBoxAndRadioButtonTest@f6c48ac]" name="initBrowser" is-config="true" duration-ms="6841" started-at="2022-11-24T16:59:22Z" finished-at="2022-11-24T16:59:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initBrowser -->
+        <test-method status="PASS" signature="checkAndVerifyRedCheckBoxIsEnabled()[pri:0, instance:com.obsqura.assignmentswithpom.CheckBoxAndRadioButtonTest@f6c48ac]" name="checkAndVerifyRedCheckBoxIsEnabled" duration-ms="44" started-at="2022-11-24T16:59:29Z" finished-at="2022-11-24T16:59:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkAndVerifyRedCheckBoxIsEnabled -->
+        <test-method status="PASS" signature="driverClose()[pri:0, instance:com.obsqura.assignmentswithpom.CheckBoxAndRadioButtonTest@f6c48ac]" name="driverClose" is-config="true" duration-ms="169" started-at="2022-11-24T16:59:29Z" finished-at="2022-11-24T16:59:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverClose -->
+        <test-method status="PASS" signature="initBrowser()[pri:0, instance:com.obsqura.assignmentswithpom.CheckBoxAndRadioButtonTest@f6c48ac]" name="initBrowser" is-config="true" duration-ms="7181" started-at="2022-11-24T16:59:29Z" finished-at="2022-11-24T16:59:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initBrowser -->
+        <test-method status="PASS" signature="checkAndVerifyRedCheckBoxIsSelected()[pri:0, instance:com.obsqura.assignmentswithpom.CheckBoxAndRadioButtonTest@f6c48ac]" name="checkAndVerifyRedCheckBoxIsSelected" duration-ms="84" started-at="2022-11-24T16:59:36Z" finished-at="2022-11-24T16:59:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkAndVerifyRedCheckBoxIsSelected -->
+        <test-method status="PASS" signature="driverClose()[pri:0, instance:com.obsqura.assignmentswithpom.CheckBoxAndRadioButtonTest@f6c48ac]" name="driverClose" is-config="true" duration-ms="106" started-at="2022-11-24T16:59:36Z" finished-at="2022-11-24T16:59:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverClose -->
+      </class> <!-- com.obsqura.assignmentswithpom.CheckBoxAndRadioButtonTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
